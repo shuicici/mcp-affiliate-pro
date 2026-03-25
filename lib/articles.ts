@@ -28,4 +28,18 @@ export const articles: Article[] = [
     description: 'A complete walkthrough for deploying your first MCP server, from choosing a platform to configuring your AI client.',
     keywords: ['deploy mcp server', 'mcp server setup', 'mcp deployment'],
   },
+  {
+    slug: 'cursor-vs-claude-code',
+    title: 'Cursor AI vs Claude Code: Which AI Coding Assistant Wins in 2026?',
+    date: '2026-03-25',
+    description: 'A comprehensive comparison of Cursor AI and Claude Code for developers. Includes affiliate links for both platforms.',
+    keywords: ['cursor vs claude', 'cursor ai', 'claude code', 'ai coding assistant'],
+  },
+  {
+    slug: 'build-first-mcp-server',
+    title: 'How to Build Your First MCP Server: A Complete Beginner\'s Guide',
+    date: '2026-03-25',
+    description: 'Step-by-step tutorial for building a Model Context Protocol server from scratch. Includes MCPize tool and hosting recommendations.',
+    keywords: ['build mcp server', 'mcp tutorial', 'model context protocol', 'mcp development'],
+  },
 ];
