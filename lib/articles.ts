@@ -42,4 +42,11 @@ export const articles: Article[] = [
     description: 'Step-by-step tutorial for building a Model Context Protocol server from scratch. Includes MCPize tool and hosting recommendations.',
     keywords: ['build mcp server', 'mcp tutorial', 'model context protocol', 'mcp development'],
   },
+  {
+    slug: 'best-mcp-servers-2026',
+    title: 'Best MCP Servers for AI Applications in 2026',
+    date: '2026-03-26',
+    description: 'A curated breakdown of the most useful MCP servers you can deploy today — from file systems and databases to Slack, GitHub, and Brave Search.',
+    keywords: ['best mcp servers', 'mcp server list', 'model context protocol servers', 'mcp github', 'mcp filesystem'],
+  },
 ];
