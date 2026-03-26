@@ -49,4 +49,11 @@ export const articles: Article[] = [
     description: 'A curated breakdown of the most useful MCP servers you can deploy today — from file systems and databases to Slack, GitHub, and Brave Search.',
     keywords: ['best mcp servers', 'mcp server list', 'model context protocol servers', 'mcp github', 'mcp filesystem'],
   },
+  {
+    slug: 'n8n-mcp-workflow-automation',
+    title: 'n8n + MCP: Automate AI Workflows with Workflow Automation in 2026',
+    date: '2026-03-26',
+    description: 'Learn how to combine n8n workflow automation with MCP servers to create powerful AI-powered automations. Step-by-step guide with examples.',
+    keywords: ['n8n mcp', 'n8n workflow automation', 'mcp server automation', 'ai workflow n8n', 'n8n tutorial'],
+  },
 ];
