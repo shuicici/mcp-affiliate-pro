@@ -70,4 +70,11 @@ export const articles: Article[] = [
     description: 'Learn what MCP (Model Context Protocol) is, how it works, and how to connect your first MCP server to Claude, Cursor, or VS Code. Perfect for developers getting started with AI integrations.',
     keywords: ['mcp for beginners', 'model context protocol tutorial', 'mcp setup guide', 'mcp claude desktop', 'mcp cursor'],
   },
+  {
+    slug: 'mcp-github-integration',
+    title: 'How to Connect MCP to GitHub: Complete Setup Guide in 2026',
+    date: '2026-03-30',
+    description: 'Learn how to connect your AI tools (Claude Desktop, Cursor, VS Code) to GitHub using the Model Context Protocol. Step-by-step tutorial with MCP Inspector for testing.',
+    keywords: ['mcp github', 'mcp github integration', 'connect mcp to github', 'mcp server github'],
+  },
 ];
