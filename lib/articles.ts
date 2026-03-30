@@ -91,4 +91,11 @@ export const articles: Article[] = [
     description: 'Learn how to connect MCP servers to Cursor AI. Step-by-step guide covering Cursor settings, JSON configuration, and the best MCP servers to use with Cursor.',
     keywords: ['cursor mcp', 'cursor mcp setup', 'cursor ai mcp server', 'cursor extension mcp', 'mcp cursor'],
   },
+  {
+    slug: 'mcp-for-data-scientists',
+    title: 'MCP for Data Scientists: Connect AI Models to Your Data Stack in 2026',
+    date: '2026-03-30',
+    description: 'A practical guide for data scientists on using MCP to connect AI models to databases, data warehouses, and data pipelines. Includes real-world use cases and setup examples.',
+    keywords: ['mcp for data scientists', 'mcp database', 'mcp postgresql', 'mcp data pipeline', 'mcp analytics'],
+  },
 ];
