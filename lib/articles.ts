@@ -98,4 +98,11 @@ export const articles: Article[] = [
     description: 'A practical guide for data scientists on using MCP to connect AI models to databases, data warehouses, and data pipelines. Includes real-world use cases and setup examples.',
     keywords: ['mcp for data scientists', 'mcp database', 'mcp postgresql', 'mcp data pipeline', 'mcp analytics'],
   },
+  {
+    slug: 'mcp-security-best-practices',
+    title: 'MCP Security Best Practices: Protect Your AI Connections in 2026',
+    date: '2026-03-30',
+    description: 'A comprehensive guide to securing your MCP servers and connections. Learn about authentication, access control, network security, and best practices for production MCP deployments.',
+    keywords: ['mcp security', 'mcp best practices', 'mcp authentication', 'mcp access control', 'mcp production security'],
+  },
 ];
