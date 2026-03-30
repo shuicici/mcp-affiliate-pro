@@ -84,4 +84,11 @@ export const articles: Article[] = [
     description: 'A practical guide to using the MCP Inspector CLI — Anthropic\'s official tool for testing, debugging, and validating MCP servers. Includes step-by-step examples and workflow tips.',
     keywords: ['mcp inspector', 'mcp cli', 'mcp debugging', 'mcp server test', 'model context protocol'],
   },
+  {
+    slug: 'cursor-mcp-setup',
+    title: 'How to Set Up MCP in Cursor: Complete Setup Guide in 2026',
+    date: '2026-03-30',
+    description: 'Learn how to connect MCP servers to Cursor AI. Step-by-step guide covering Cursor settings, JSON configuration, and the best MCP servers to use with Cursor.',
+    keywords: ['cursor mcp', 'cursor mcp setup', 'cursor ai mcp server', 'cursor extension mcp', 'mcp cursor'],
+  },
 ];
