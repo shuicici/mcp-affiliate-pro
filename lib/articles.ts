@@ -105,4 +105,11 @@ export const articles: Article[] = [
     description: 'A comprehensive guide to securing your MCP servers and connections. Learn about authentication, access control, network security, and best practices for production MCP deployments.',
     keywords: ['mcp security', 'mcp best practices', 'mcp authentication', 'mcp access control', 'mcp production security'],
   },
+  {
+    slug: 'mcp-cli-tools-2026',
+    title: 'Best CLI Tools for AI Developers in 2026',
+    date: '2026-03-30',
+    description: 'A curated guide to the best command-line tools for AI developers in 2026, covering productivity boosters, AI CLIs, and terminal essentials that pair with MCP workflows.',
+    keywords: ['best cli tools 2026', 'ai developer tools', 'terminal tools for developers', 'raycast cli', 'mcp inspector', 'warp terminal', 'fig cli'],
+  },
 ];
