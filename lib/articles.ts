@@ -77,4 +77,11 @@ export const articles: Article[] = [
     description: 'Learn how to connect your AI tools (Claude Desktop, Cursor, VS Code) to GitHub using the Model Context Protocol. Step-by-step tutorial with MCP Inspector for testing.',
     keywords: ['mcp github', 'mcp github integration', 'connect mcp to github', 'mcp server github'],
   },
+  {
+    slug: 'mcp-inspector-cli',
+    title: 'MCP Inspector CLI Tutorial: Debug and Test Your MCP Servers in 2026',
+    date: '2026-03-30',
+    description: 'A practical guide to using the MCP Inspector CLI — Anthropic\'s official tool for testing, debugging, and validating MCP servers. Includes step-by-step examples and workflow tips.',
+    keywords: ['mcp inspector', 'mcp cli', 'mcp debugging', 'mcp server test', 'model context protocol'],
+  },
 ];
