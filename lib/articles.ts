@@ -56,4 +56,18 @@ export const articles: Article[] = [
     description: 'Learn how to combine n8n workflow automation with MCP servers to create powerful AI-powered automations. Step-by-step guide with examples.',
     keywords: ['n8n mcp', 'n8n workflow automation', 'mcp server automation', 'ai workflow n8n', 'n8n tutorial'],
   },
+  {
+    slug: 'best-mcp-clients-2026',
+    title: 'Best MCP Clients in 2026: Claude, Cursor, and More',
+    date: '2026-03-26',
+    description: 'A guide to the best MCP clients in 2026, comparing Claude, Cursor, VS Code and others. Learn how to connect MCP servers to your favorite AI coding tools.',
+    keywords: ['best mcp clients', 'mcp client', 'claude mcp', 'cursor mcp', 'mcp setup'],
+  },
+  {
+    slug: 'mcp-for-beginners-2026',
+    title: 'MCP for Beginners: A Complete Guide to Model Context Protocol in 2026',
+    date: '2026-03-30',
+    description: 'Learn what MCP (Model Context Protocol) is, how it works, and how to connect your first MCP server to Claude, Cursor, or VS Code. Perfect for developers getting started with AI integrations.',
+    keywords: ['mcp for beginners', 'model context protocol tutorial', 'mcp setup guide', 'mcp claude desktop', 'mcp cursor'],
+  },
 ];
