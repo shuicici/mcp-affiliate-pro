@@ -361,7 +361,7 @@ export default function McpServersProduction2026Page() {
                 <p>
                   <strong className={highlight ? 'text-emerald-400' : 'text-zinc-200'}>{platform}</strong>
                   {' '}— {reason}
-                </strong>
+                </p>
                 {highlight && (
                   <span className="ml-2 text-xs bg-emerald-500/10 text-emerald-400 px-2 py-0.5 rounded">Recommended</span>
                 )}
