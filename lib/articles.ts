@@ -112,4 +112,11 @@ export const articles: Article[] = [
     description: 'A curated guide to the best command-line tools for AI developers in 2026, covering productivity boosters, AI CLIs, and terminal essentials that pair with MCP workflows.',
     keywords: ['best cli tools 2026', 'ai developer tools', 'terminal tools for developers', 'raycast cli', 'mcp inspector', 'warp terminal', 'fig cli'],
   },
+  {
+    slug: 'context-drift-in-claude-code',
+    title: 'How to Prevent Context Drift in Claude Code and Cursor: A Practical Guide in 2026',
+    date: '2026-03-31',
+    description: 'Learn what context drift is, why AI coding assistants lose focus after a few steps, and proven techniques to keep Claude Code and Cursor on track throughout long coding sessions.',
+    keywords: ['context drift', 'claude code context drift', 'cursor context management', 'ai coding assistant focus', 'prevent agent drift'],
+  },
 ];
