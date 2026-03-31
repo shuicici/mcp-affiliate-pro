@@ -140,4 +140,11 @@ export const articles: Article[] = [
     description: 'A practical guide to securing your MCP servers and AI agent connections in production. Covers authentication, secret management, network isolation, and real-world security patterns from developer workflows.',
     keywords: ['mcp security', 'mcp production security', 'ai agent security', 'secret management mcp', 'mcp authentication'],
   },
+  {
+    slug: 'cursor-vs-alternatives-2026',
+    title: 'Cursor vs Claude Code vs VS Code: The Best AI Code Editor in 2026',
+    date: '2026-03-31',
+    description: 'A practical comparison of Cursor, Claude Code, and VS Code in 2026. Covers AI capabilities, pricing, MCP support, workflow differences, and which editor is best for different use cases.',
+    keywords: ['cursor vs claude code', 'cursor vs vs code', 'ai code editor comparison', 'claude code vs cursor', 'best ai code editor 2026'],
+  },
 ];
