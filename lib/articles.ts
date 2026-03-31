@@ -133,4 +133,11 @@ export const articles: Article[] = [
     description: 'Practical strategies and tools to prevent runaway AI API bills. Learn how to set budget guardrails, monitor token usage, and choose cost-efficient models for development workflows.',
     keywords: ['ai api cost', 'llm cost management', 'openai api cost control', 'claude api cost', 'api budget tools', 'reduce llm costs'],
   },
+  {
+    slug: 'mcp-security-production',
+    title: 'MCP Security Best Practices for Production Deployments in 2026',
+    date: '2026-03-31',
+    description: 'A practical guide to securing your MCP servers and AI agent connections in production. Covers authentication, secret management, network isolation, and real-world security patterns from developer workflows.',
+    keywords: ['mcp security', 'mcp production security', 'ai agent security', 'secret management mcp', 'mcp authentication'],
+  },
 ];
