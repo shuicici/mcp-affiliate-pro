@@ -119,4 +119,11 @@ export const articles: Article[] = [
     description: 'Learn what context drift is, why AI coding assistants lose focus after a few steps, and proven techniques to keep Claude Code and Cursor on track throughout long coding sessions.',
     keywords: ['context drift', 'claude code context drift', 'cursor context management', 'ai coding assistant focus', 'prevent agent drift'],
   },
+  {
+    slug: 'mcp-servers-production-2026',
+    title: 'Best MCP Hosting Platforms for Production in 2026: Railway, Modal, Supabase, and More',
+    date: '2026-03-31',
+    description: 'A practical comparison of the best platforms to host MCP servers in production. Covers Railway, Modal, Supabase, Neon, and MCPize — with pricing, ease of use, and real-world use cases for each.',
+    keywords: ['mcp hosting', 'mcp server production', 'railway mcp', 'modal mcp', 'supabase mcp', 'mcpize', 'deploy mcp server'],
+  },
 ];
