@@ -161,4 +161,11 @@ export const articles: Article[] = [
     description: 'A practical analysis comparing Model Context Protocol (MCP) with OpenAI\'s agent protocols. Covers technical differences, ecosystem adoption, and what developers should bet on in 2026.',
     keywords: ['mcp vs openai protocol', 'ai integration standard', 'model context protocol openai', 'ai protocol comparison', 'mcp adoption'],
   },
+  {
+    slug: 'mcp-prompt-engineering',
+    title: 'MCP Prompt Engineering: How to Write Better Prompts for MCP-Powered AI in 2026',
+    date: '2026-04-01',
+    description: 'Learn how to write effective prompts when using AI models with MCP (Model Context Protocol). Covers context management, prompt structure, and advanced techniques for getting better results from MCP-connected AI assistants.',
+    keywords: ['mcp prompt engineering', 'prompt engineering mcp', 'claude prompt mcp', 'mcp context prompts', 'ai prompting tips'],
+  },
 ];
