@@ -182,4 +182,11 @@ export const articles: Article[] = [
     description: 'A practical review of MCPize — the tool that lets you MCPize any AI API. Covers setup, features, use cases, pricing, and whether it\'s worth it for developers in 2026.',
     keywords: ['mcpize review', 'mcpize.com', 'mcpize tutorial', 'how to mcpize', 'add mcp to any ai'],
   },
+  {
+    slug: 'cursor-workspace-management',
+    title: 'How to Manage Your Cursor Workspace in 2026: Settings, Extensions, and Workflow Organization',
+    date: '2026-04-02',
+    description: 'A practical guide to organizing your Cursor workspace for maximum productivity. Covers settings optimization, essential extensions, project folder structure, and workflow organization for AI-assisted development.',
+    keywords: ['cursor workspace management', 'cursor settings', 'cursor extensions', 'cursor workflow', 'cursor productivity'],
+  },
 ];
