@@ -168,4 +168,11 @@ export const articles: Article[] = [
     description: 'Learn how to write effective prompts when using AI models with MCP (Model Context Protocol). Covers context management, prompt structure, and advanced techniques for getting better results from MCP-connected AI assistants.',
     keywords: ['mcp prompt engineering', 'prompt engineering mcp', 'claude prompt mcp', 'mcp context prompts', 'ai prompting tips'],
   },
+  {
+    slug: 'mcpize-review',
+    title: 'MCPize Review 2026: The Fastest Way to Add MCP to Your AI Workflows',
+    date: '2026-04-02',
+    description: 'A practical review of MCPize — the tool that lets you MCPize any AI API. Covers setup, features, use cases, pricing, and whether it\'s worth it for developers in 2026.',
+    keywords: ['mcpize review', 'mcpize.com', 'mcpize tutorial', 'how to mcpize', 'add mcp to any ai'],
+  },
 ];
