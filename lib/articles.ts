@@ -169,6 +169,13 @@ export const articles: Article[] = [
     keywords: ['mcp prompt engineering', 'prompt engineering mcp', 'claude prompt mcp', 'mcp context prompts', 'ai prompting tips'],
   },
   {
+    slug: 'ai-code-quality-gap-2026',
+    title: 'AI Coding Agents Write Code That Works. Then You Spend Hours Cleaning It Up.',
+    date: '2026-04-01',
+    description: "Coding agents produce functional code that feels wrong. Unnecessary layers, repeated logic, classes that don't quite fit the domain. Here's why this happens — and the practical patterns that actually help.",
+    keywords: ['ai code quality', 'claude code criticism', 'cursor code quality', 'ai generated code refactoring', 'coding agent limitations', 'mcp context management'],
+  },
+  {
     slug: 'mcpize-review',
     title: 'MCPize Review 2026: The Fastest Way to Add MCP to Your AI Workflows',
     date: '2026-04-02',
