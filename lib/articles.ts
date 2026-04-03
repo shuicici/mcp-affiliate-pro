@@ -189,4 +189,11 @@ export const articles: Article[] = [
     description: 'A practical guide to organizing your Cursor workspace for maximum productivity. Covers settings optimization, essential extensions, project folder structure, and workflow organization for AI-assisted development.',
     keywords: ['cursor workspace management', 'cursor settings', 'cursor extensions', 'cursor workflow', 'cursor productivity'],
   },
+  {
+    slug: 'mcp-community-update-2026',
+    title: "MCP Community Update: What's Happening in the MCP Ecosystem in 2026",
+    date: '2026-04-02',
+    description: 'A roundup of the latest developments in the MCP ecosystem — new tools, integrations, community projects, and what the future holds for Model Context Protocol.',
+    keywords: ['mcp community', 'mcp ecosystem 2026', 'mcp news', 'model context protocol updates', 'mcp tools'],
+  },
 ];
