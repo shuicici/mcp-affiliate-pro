@@ -186,7 +186,7 @@ export default function PabblyConnectWebhookAutomation() {
           Before forwarding anything, add a <strong>Filter</strong> step. This lets you define
           conditions that must be met before the workflow continues. For example, if you only
           want to process Stripe payment events of type <code>invoice.payment_succeeded</code>,
-          you can add a filter: <code>Body > event > type equals invoice.payment_succeeded</code>.
+          you can add a filter: <code>Body &gt; event &gt; type equals invoice.payment_succeeded</code>.
           Everything else gets ignored or routed elsewhere.
         </p>
         <p className="text-zinc-400 text-lg font-medium text-zinc-200">
