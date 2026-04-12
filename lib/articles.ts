@@ -8,6 +8,13 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'multi-agent-handoff-debugging',
+    title: "Why Multi-Agent Pipelines Fail at the Handoff (And How to Fix It)",
+    date: '2026-04-12',
+    description: "When a multi-agent system breaks, nobody knows what happened. Here's the real debugging problem nobody talks about — and how MCP is quietly becoming part of the solution.",
+    keywords: ['multi-agent debugging', 'MCP observability', 'AI agent handoff', 'agentic workflow debugging', 'MCP protocol'],
+  },
+  {
     slug: 'what-is-mcp',
     title: 'What is MCP? A Beginner\'s Guide to the Model Context Protocol in 2026',
     date: '2026-03-25',
